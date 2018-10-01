@@ -1,6 +1,7 @@
 # UNQ-copy-2
-# UNQ is a market place app that garnered 10K downloads and Users use the mobile application in order to buy and sell urban
-# Clothing like Bape, Supreme, Nike, Stone Island, Yeezy etc.
+# UNQ is a market place app that garnered 10K downloads 
+
+Users use the mobile application in order to buy and sell urban Clothing like Bape, Supreme, Nike, Stone Island, Yeezy etc.
 
 The app is written in Swift and the backend is using Back4App.com. Documentation linke is here: https://www.back4app.com/docs/parse-documentation 
 
